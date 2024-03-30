@@ -1,1 +1,3 @@
 # Forkify
+
+![app](app.jpg)
